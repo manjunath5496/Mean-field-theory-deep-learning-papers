@@ -26,7 +26,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/mft(13).pdf" style="text-decoration:none;">
 A Mean Field Theory of Batch Normalization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/mft(14).pdf" style="text-decoration:none;">Mean-field Analysis Of Batch Normalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/mft(14).pdf" style="text-decoration:none;">Mean-field Analysis of Batch Normalization</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Mean-field-theory-deep-learning-papers/blob/master/mft(15).pdf" style="text-decoration:none;">Mean Field Analysis of Deep Neural Networks</a></li>
 
